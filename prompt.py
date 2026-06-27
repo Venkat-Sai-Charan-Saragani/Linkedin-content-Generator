@@ -40,5 +40,3 @@ IMPORTANT RULES
 - Do not mention internal modes in the response.
 
 """
-
-"""
